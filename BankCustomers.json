@@ -1,0 +1,24 @@
+[
+  {
+       "name" : "Arun",
+      "address" : "Delhi India",  
+      "phoneNumber" : "99758216676",  
+      "emailAddress" : "arun@gmail.com",
+      "dateOfBirth" : "06-08-1985",
+      "customerType" : "individual",  
+     "gender" : "male",   
+     "organizationName" : "Reliance"
+  },
+  {
+       "name" : "Karthik",
+      "address" : "Lucknow India",  
+      "phoneNumber" : "99734216676",  
+      "emailAddress" : "karthik@gmail.com",
+      "dateOfBirth" : "09-09-1988",
+      "customerType" : "individual",  
+     "gender" : "male",   
+     "organizationName" : "Tata"  
+  
+  }
+ 
+]
